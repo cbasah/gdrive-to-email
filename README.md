@@ -1,6 +1,6 @@
 # GDrive-to-Email
 
-This simple Python script checks a Google Drive folder for files matching a given MIME-type, sends an e-mail with the file as an attachment and moves the file to another Google Drive folder.
+This simple Python script checks a Google Drive folder for files matching a given MIME-type, sends an e-mail with each file as an attachment and moves the file to another Google Drive folder after the e-mail is sent.
 
 ## Installation
 
